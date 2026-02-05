@@ -1,0 +1,19 @@
+{
+  "name": "sever",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@payos/node": "^2.0.4",
+    "axios": "^1.13.2",
+    "nodemailer": "^7.0.12"
+  }
+}
